@@ -1,7 +1,7 @@
--- create a database for the pizza dataset
+-- created a database for the pizza dataset
 CREATE DATABASE IF NOT EXISTS Pizza_sales;
 
--- import your dataset into your database or sql server through import wizard
+-- imported your dataset into your database or sql server through import wizard
 SELECT * FROM Pizza_sales.dbo.pizza_sales;
 
 -- KPI's
