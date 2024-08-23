@@ -11,7 +11,6 @@ Welcome to the **Pizza Sales Report** project, where we leverage SQL for data an
 - [Dashboard Overview](#dashboard-overview)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
 - [Contributors](#contributors)
-- [Feedback and Contributions](#feedback-and-contributions)
 - [License](#license)
 
 ## Features
